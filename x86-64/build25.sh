@@ -56,17 +56,6 @@ PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
-# 自定义软件
-PACKAGES="$PACKAGES luci-app-store"
-PACKAGES="$PACKAGES luci-app-quickstart"
-PACKAGES="$PACKAGES luci-app-adguardhome"
-PACKAGES="$PACKAGES luci-app-advancedplus"
-PACKAGES="$PACKAGES luci-app-netwizard"
-PACKAGES="$PACKAGES luci-app-taskplan"
-PACKAGES="$PACKAGES luci-app-mosdns"
-PACKAGES="$PACKAGES luci-app-uninstall"
-PACKAGES="$PACKAGES luci-app-bandix"
-PACKAGES="$PACKAGES luci-app-passwall"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
